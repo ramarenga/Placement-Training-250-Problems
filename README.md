@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0015-3sum) |
 | [3093-longest-common-suffix-queries](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/3093-longest-common-suffix-queries) |
 ## Binary Search
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
