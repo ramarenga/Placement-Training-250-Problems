@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0014-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/3093-longest-common-suffix-queries) |
 ## Sliding Window
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0014-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/3093-longest-common-suffix-queries) |
 ## Binary Search
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0014-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/3093-longest-common-suffix-queries) |
 ## Two Pointers
 |  |
