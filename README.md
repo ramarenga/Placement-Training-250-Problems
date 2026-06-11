@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/1025-divisor-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2235-add-two-integers) |
+| [2651-calculate-delayed-arrival-time](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2651-calculate-delayed-arrival-time) |
 ## Recursion
 |  |
 | ------- |
