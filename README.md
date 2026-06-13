@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/1025-divisor-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2235-add-two-integers) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2651-calculate-delayed-arrival-time) |
 ## Recursion
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0018-4sum) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3093-longest-common-suffix-queries](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/3093-longest-common-suffix-queries) |
 ## Binary Search
 |  |
