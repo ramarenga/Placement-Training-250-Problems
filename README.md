@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2651-calculate-delayed-arrival-time) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3099-harshad-number](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/3099-harshad-number) |
 ## Recursion
 |  |
