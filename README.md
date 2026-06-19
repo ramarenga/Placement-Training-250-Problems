@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2235-add-two-integers) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2485-find-the-pivot-integer](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2651-calculate-delayed-arrival-time) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2806-account-balance-after-rounded-purchase) |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/1952-three-divisors) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
