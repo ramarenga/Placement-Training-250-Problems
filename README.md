@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0242-valid-anagram) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## String
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0018-4sum) |
 | [0066-plus-one](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0217-contains-duplicate) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3093-longest-common-suffix-queries](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/3093-longest-common-suffix-queries) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0242-valid-anagram) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Brainteaser
