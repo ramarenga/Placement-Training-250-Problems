@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0709-to-lower-case](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0709-to-lower-case) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
