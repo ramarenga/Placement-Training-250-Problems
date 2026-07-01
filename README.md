@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/1025-divisor-game) |
 | [1952-three-divisors](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/1952-three-divisors) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0018-4sum) |
+| [0066-plus-one](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0066-plus-one) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3093-longest-common-suffix-queries](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/3093-longest-common-suffix-queries) |
