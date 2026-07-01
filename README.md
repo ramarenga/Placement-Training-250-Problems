@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2485-find-the-pivot-integer) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
