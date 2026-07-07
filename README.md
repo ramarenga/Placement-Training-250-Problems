@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0018-4sum) |
 | [0066-plus-one](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0217-contains-duplicate) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3093-longest-common-suffix-queries](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/3093-longest-common-suffix-queries) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0242-valid-anagram) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Brainteaser
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ramarenga/Placement-Training-250-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
